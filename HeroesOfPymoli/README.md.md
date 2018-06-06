@@ -1,7 +1,14 @@
 
 
 ```python
-# useful link: https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/
+##Andrew Kling
+##UNCC HW 4 - Heroes of Pymoli
+
+#Observable Trends:
+#1. Male players make up a majority of the players in the game at roughly 84%
+#2. The top age range for players are 20-24 years old making up approximately 45% of the player base
+#3. The most profitable item is also the most purchase item, "Oathbreaker, Last Hope of the Breaking Storm"
+
 
 import pandas as pd
 import numpy as np
